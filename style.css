@@ -21,7 +21,7 @@ body{
 #container{
     background-color: hsl(0, 0%, 100%);
     width: 40%;
-    margin-top: -120px;
+    margin-top: -7%;
     padding: 5%;
     border-radius: 12px;
     margin-bottom: 20%;
@@ -55,5 +55,9 @@ nav{
     padding: 10px;
 }
 a:hover{
+    cursor: pointer;
+}
+nav:hover{
+    color: #AD28EB;
     cursor: pointer;
 }
