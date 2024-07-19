@@ -61,3 +61,17 @@ nav:hover{
     color: #AD28EB;
     cursor: pointer;
 }
+@media (width <= 450px){
+    body{
+        background-image: url(assets/images/background-pattern-mobile.svg);
+        background-size: 100% auto;
+        background-position: top center;
+        background-repeat: no-repeat;
+        margin-top: -90px;
+    }
+    #container{
+        width: 80%;
+        margin-top: 170px;
+    }
+}
+        
