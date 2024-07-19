@@ -10,6 +10,11 @@ body{
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+    background-image: url(assets/images/background-pattern-desktop.svg);
+    background-size: 100% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-top: 20%;
 }
 #div-principal{
     width: 100%;
