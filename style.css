@@ -59,13 +59,17 @@ nav{
 #ultima-div{
     padding: 10px;
 }
-a:hover{
+img:hover{
     cursor: pointer;
 }
 nav:hover{
     color: #AD28EB;
     cursor: pointer;
 }
+p{
+    display: none;
+}
+
 @media (width <= 450px){
     body{
         background-image: url(assets/images/background-pattern-mobile.svg);
